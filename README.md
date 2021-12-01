@@ -4,7 +4,7 @@ I am a full stack developer. 🏄‍♂️.
 
 🔭 I’m currently working on React Native Apps 
 
-🌱 I’m currently learning # Next JS
+🌱 I’m currently learning Next JS
 
 💬 Ask me about: anything
 
