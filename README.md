@@ -27,7 +27,7 @@ company: VUUZA
 currently_learning: ["Next JS", "Robotics"]
 hobbies: ["Basketball", "Cinema", "Rapsberry Pi Dumb Projects",
           "Making Alexa do/say dumb stuff", "Anything dumb and useless"]
-relocation_interests: ["Japan", "Singapore", "California", "NYC", "Taiwan"]
+
 ```
 
 
