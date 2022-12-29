@@ -19,7 +19,6 @@
 
 ```yaml
 name: Mahdi Saghroun
-located_in: Siliana, Bargou
 from: Tunisia
 education: ["Master's in Computer Science"]
 job: React Native Developer
